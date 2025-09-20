@@ -12,3 +12,5 @@ pip install -r requirements.txt
 
 backend----part is completed
 
+streamlit ---part is added
+
