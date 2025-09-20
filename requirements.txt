@@ -1,0 +1,27 @@
+langgraph
+langchain
+langchain-community
+langchain_core
+langchain_text_splitters
+sentence-transformers
+pypdf
+docx2txt
+unstructured
+fastapi
+uvicorn
+streamlit
+python-dotenv
+pinecone
+langchain-pinecone
+langchain-groq
+langchain-tavily
+requests
+uuid
+langchain-huggingface
+python-multipart   
+#from fastapi import UploadFile, File
+#fast api logic.....
+# @app.post("/upload")
+# async def upload_document(file: UploadFile = File(...)):
+#     ...
+# When FastAPI sees File(...) or Form(...), it expects to parse multipart/form-data — which is handled by python-multipart.
